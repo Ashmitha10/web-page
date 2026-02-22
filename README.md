@@ -10,6 +10,7 @@ The design includes:
 - Input fields with rounded corners
 - Styled "Create Account" button
 - Clean and modern layout
+  
   ![WhatsApp Image 2026-02-22 at 4 57 21 PM](https://github.com/user-attachments/assets/52ac8bcb-213d-4674-9749-3116f4a1088c)
 
 
