@@ -58,8 +58,8 @@ The page displays:
 
 ---
 
-## 👩‍💻 Author
-Asmitha
+## 👩‍💻 Developed by
+Ashmitha
 
 ---
 
